@@ -1,3 +1,10 @@
+# Output
+![image](https://github.com/user-attachments/assets/24a9e71d-c4a2-4b5d-a840-2a438da095c3)
+
+# Description
+Develop a simple calculator using React to perform basic arithmetic operations like addition, subtraction, multiplication, and division. This project showcases how to build interactive components, handle state, and manage events in React. Each button and display is built as a reusable component, making the layout clean and organized. By passing values and operations as props, this calculator demonstrates effective state management to display results dynamically. Ideal for beginners, this project provides hands-on experience in working with React's core concepts and creating a functional, responsive calculator interface.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
